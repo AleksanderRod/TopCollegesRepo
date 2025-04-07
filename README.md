@@ -6,15 +6,17 @@ Overview: This repository was created to store and maintain data/information cov
 
 1. National Universities Rankings
    Description: Consist of a dataset with 1800 schools in the U.S. The dataset was mined through the U.S. News & World Report's 2017 National Universities Rankings.
+   
    Source: https://www.kaggle.com/datasets/thedevastator/national-universities-rankings-explore-quality-t/data
+   
    Format: .csv 
 
-2. School Rankings
+3. School Rankings
    Description: Another dataset with rankings for the top 150 in the United States. This dataset was web scrapped from Niche.com covering Descriptions for each college including tuition       and enrollments.
    Source: https://www.kaggle.com/datasets/peterpenner445/american-university-rankings-top-150?resource=download
    Format: .csv 
 
-3. ay22-23 Campus Based
+4. ay22-23 Campus Based
    Description: This dataset is from the Federal Student Aid website giving students and future students and idea of what colleges give out in awards and aid toward tuition.
    Source: https://studentaid.gov/data-center/student/title-iv
    Format: .xls 
