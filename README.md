@@ -42,7 +42,7 @@ Overview: This repository was created to store and maintain data/information cov
 
    Description: This academic journal discusses what makes a good college, describing cultures and campuses. This could be used for colleges and students or future students.
 
-   Source: College & Research Libraries - How Much Do the “Best” Colleges Spend on Libraries? Using College Rankings to Provide Library Financial Benchmarks
+   Source: Confessore, N. (2003, November). What makes a college good? The Atlantic. https://www.theatlantic.com/magazine/archive/2003/11/what-makes-a-college-good/302834/
 
    Format: PDF 
 
