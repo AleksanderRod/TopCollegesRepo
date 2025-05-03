@@ -8,7 +8,7 @@ Overview: This repository was created to store and maintain data/information cov
 
    Description: Consist of a dataset with 1800 schools in the U.S. The dataset was mined through the U.S. News & World Report's 2017 National Universities Rankings.
    
-   Source: https://www.kaggle.com/datasets/thedevastator/national-universities-rankings-explore-quality-t/data
+   Source: U.S. News & World Report. (2017). National Universities Rankings. Retrieved from https://www.kaggle.com/datasets/thedevastator/national-universities-rankings-explore-quality-        t/data
    
    Format: .csv 
 
@@ -16,15 +16,14 @@ Overview: This repository was created to store and maintain data/information cov
 
    Description: Another dataset with rankings for the top 150 in the United States. This dataset was web scrapped from Niche.com covering Descriptions for each college including tuition       and enrollments.
 
-   Source: https://www.kaggle.com/datasets/peterpenner445/american-university-rankings-top-150?resource=download
-
+   Source: Niche.com. American University Rankings - Top 150. Retrieved from https://www.kaggle.com/datasets/peterpenner445/american-university-rankings-top-150?resource=download
    Format: .csv 
 
 5. ay22-23 Campus Based
 
    Description: This dataset is from the Federal Student Aid website giving students and future students and idea of what colleges give out in awards and aid toward tuition.
 
-   Source: https://studentaid.gov/data-center/student/title-iv
+   Source: Federal Student Aid. Campus-Based Programs Data. Retrieved from https://studentaid.gov/data-center/student/title-iv
 
    Format: .xls 
 
@@ -35,8 +34,7 @@ Overview: This repository was created to store and maintain data/information cov
    Description: This is a report discussing the teaching techniques at top schools. Could be helpful for colleges to implement these teaching techniques at their own campus but it could 
    also be helpful for students to find colleges that fit their learning techniques.
 
-   Source: Assessment & Evaluation in Higher Education - Understanding the perceived quality of professors’ teaching effectiveness in various disciplines: the moderating effects of
-   teaching at top colleges
+   Source: Chiu, Y.-L., Chen, K.-H., Hsu, Y.-T., & Wang, J.-N. (2019). Understanding the perceived quality of professors’ teaching effectiveness in various disciplines: the moderating          effects of teaching at top colleges. Assessment & Evaluation in Higher Education, 44(3), 449–462. https://doi.org/10.1080/02602938.2018.1520193
 
    Format: PDF 
 
